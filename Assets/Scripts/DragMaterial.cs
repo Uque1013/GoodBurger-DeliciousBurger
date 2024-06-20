@@ -1,8 +1,10 @@
+#if UNITY_EDITOR
+using UnityEditor.Presets;
+#endif
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Net;
-using UnityEditor.Presets;
 using UnityEngine;
 using UnityEngine.SceneManagement; // SceneManager를 사용하기 위해 필요
 using UnityEngine.UI;

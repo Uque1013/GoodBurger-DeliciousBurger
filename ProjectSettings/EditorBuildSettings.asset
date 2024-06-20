@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/GameRulesScene.unity
-    guid: e330810e4b7389f4c8f82ca498b435dd
-  - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 87d08985b3799ad45b7390a23216a7ea
+  - enabled: 1
+    path: Assets/Scenes/GameRulesScene.unity
+    guid: e330810e4b7389f4c8f82ca498b435dd
   - enabled: 1
     path: Assets/Scenes/MenuScene.unity
     guid: 44c1a5d619a175f4cb47beb82a87baf5
@@ -29,10 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainGameScene.unity
     guid: 9f00e7bb4bcc8fa4ebde9b9919a7b269
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestScene.unity
-    guid: 3448c46b5e29fca46b4077197544a8b9
-  - enabled: 1
+    guid: cf5221b1b5c9e484da0d49d6bf954ab1
+  - enabled: 0
     path: Assets/Scenes/Test2Scene.unity
     guid: d8e21424d3d12844db38c03d0890b2e6
   - enabled: 1
